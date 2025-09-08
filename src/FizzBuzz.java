@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * Solve the FizzBuzz challenge.
  */

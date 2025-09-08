@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 /**
  * Solve the FizzBuzz challenge.
+ * some updates
  */
 class FizzBuzz {
 
